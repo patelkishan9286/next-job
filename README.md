@@ -2,6 +2,8 @@
 
 Welcome to **Next Job**, an innovative job search web application designed to simplify and enhance the job seeking and hiring process. Our platform bridges the gap between job seekers and employers, offering a user-centric interface and experience.
 
+### Live Deployment (Frontend)🚀: https://master--luminous-chaja-d73e17.netlify.app/
+
 ## Overview
 
 - **User-Centric Design:** We've addressed common frustrations in job search platforms, ensuring a seamless experience for both job seekers and employers.
